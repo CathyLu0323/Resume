@@ -121,6 +121,7 @@ html,body{
    text-align: center;
    line-height: 76px; /* 讓文字垂直置中 */
 }
+
 /* aside 個人照片和學經歷 */
 /* 重要 這部分img可能要加入flot屬性 */
 .aside{
@@ -182,7 +183,6 @@ html,body{
    margin-top: 182px;
    margin-left: 170px;
    margin-right: auto;
-   /* padding-left: 170px; */
 }
 .per .h1{
    display: block;
