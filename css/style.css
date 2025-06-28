@@ -180,9 +180,9 @@ html,body{
    width: 1253px;
    height: 263px;
    margin-top: 182px;
-   margin-left: auto;
+   margin-left: 170px;
    margin-right: auto;
-   padding-left: 170px;
+   /* padding-left: 170px; */
 }
 .per .h1{
    display: block;
